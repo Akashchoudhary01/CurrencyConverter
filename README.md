@@ -21,5 +21,5 @@ A modern and responsive currency converter web app built with **React** and **Ta
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/Akashchoudhary01/currency-converter.git
    cd currency-converter
