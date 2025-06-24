@@ -58,8 +58,8 @@ currency-converter/
 ```
 
 ## ✨ Screenshots
+![Screenshot 2025-06-24 113415](https://github.com/user-attachments/assets/ab53aa8c-5b02-4c66-b2a1-521580d64e8d)
 
-*Add screenshots here if available*
 
 ## 📌 Future Improvements
 
