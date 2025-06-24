@@ -23,3 +23,60 @@ A modern and responsive currency converter web app built with **React** and **Ta
    ```bash
    git clone https://github.com/Akashchoudhary01/currency-converter.git
    cd currency-converter
+````
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in browser:**
+   Navigate to `http://localhost:5173` (or whatever port is shown in terminal).
+
+## 🧩 Project Structure
+
+```
+currency-converter/
+│
+├── public/               # Static files
+├── src/
+│   ├── Components/
+│   │   └── InputFild.jsx # Reusable input component for currency values
+│   ├── Hooks/
+│   │   └── useCurrencyInfo.js # Custom hook to fetch currency data
+│   ├── App.jsx           # Main component
+│   └── main.jsx          # Entry point
+├── tailwind.config.js    # Tailwind config
+└── index.html
+```
+
+## ✨ Screenshots
+
+*Add screenshots here if available*
+
+## 📌 Future Improvements
+
+* Dark mode support 🌙
+* Currency flag icons 🇺🇸 🇮🇳
+* Chart for exchange rate trends 📊
+* Offline fallback
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to fork this project and submit a pull request.
+
+
+Made with 💙 by Akashchoudhary (https://github.com/Akashchoudhary01)
+
+```
+
+---
+
